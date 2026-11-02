@@ -145,6 +145,7 @@ a:hover { color: var(--accent-hover); text-decoration: underline; }
 .paper .title { font-weight: 600; }
 .paper .coauthors { color: var(--fg); }
 .paper .status { color: var(--muted); font-style: italic; }
+.paper .links { margin-top: 0.1rem; }
 .paper .presentations { color: var(--muted); font-size: 0.9rem; margin-top: 0.2rem; }
 
 .content ul.resources { padding-left: 1.2rem; }
